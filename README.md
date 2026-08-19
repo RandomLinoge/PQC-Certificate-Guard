@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RandomLinoge/PQC-Certificate-Guard/blob/main/CertificateGuard-Logo.jpg">
+  <img src="https://github.com/RandomLinoge/PQC-Certificate-Guard/blob/main/src/CertificateGuard-Logo.jpg">
   <p align="center">Experimental PowerShell laboratory for ML-DSA and SLH-DSA X.509 certificates and detached file signatures.</p>
   <p align="center">
   </a>
@@ -43,7 +43,7 @@ ML-DSA-87 and the 256-bit SLH-DSA families are already the highest standardized 
 Set-ExecutionPolicy -Scope Process Bypass
 & .\src\PQC-Certificate-Guard.ps1
 ```
-
+<img src="https://github.com/RandomLinoge/PQC-Certificate-Guard/blob/main/src/CertificateGuard-Main.jpg">
 ## Safe first test
 
 1. Run **Setup doctor** and confirm OpenSSL 3.5+ and algorithm support.
