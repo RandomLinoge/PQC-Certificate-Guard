@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="https://github.com/RandomLinoge/PQC-Certificate-Guard/blob/main/CertificateGuard-Logo.jpg">
+  <p align="center">Experimental PowerShell laboratory for ML-DSA and SLH-DSA X.509 certificates and detached file signatures.</p>
+  <p align="center">
+  </a>
+    <a href="https://github.com/RandomLinoge/PQC-Certificate-Guard">
+      <img src="https://img.shields.io/badge/Version-1.0.0-rc1-darkgreen">
+        <img src="https://img.shields.io/badge/Release%20Date-August%202622-blue">
+  <img src="https://img.shields.io/badge/powershell-100%25-blue?style=plastic">
+    </a>
+  </p>
+</p>
+
 # PQC Certificate Guard
 
 PQC Certificate Guard is an experimental Windows PowerShell laboratory for private X.509 hierarchies and detached file signatures using OpenSSL 3.5+.
