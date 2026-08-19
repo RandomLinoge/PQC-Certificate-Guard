@@ -1,0 +1,14 @@
+{
+    "Workspace":  "workspace",
+    "OpenSslPath": "",
+    "LabName":  "example-pqc-lab",
+    "OrgName":  "Example Research Lab",
+    "Country":  "XX",
+    "RootOU":  "PQC PKI Lab",
+    "SignerOU":  "PQC Signing",
+    "Algorithm":  "ML-DSA-87",
+    "Context":  "example-pqc-lab-ML-DSA-87-file-v1",
+    "LastSignedFile":  "",
+    "LastSignatureFile":  "",
+    "NmsEnabled":  false
+}
