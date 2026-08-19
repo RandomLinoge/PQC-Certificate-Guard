@@ -4,6 +4,7 @@
   <p align="center">
   </a>
     <a href="https://github.com/RandomLinoge/PQC-Certificate-Guard">
+      <img src="https://img.shields.io/badge/opensource-darkgreen">
       <img src="https://img.shields.io/badge/Version-1.0.0_rc1-darkgreen">
         <img src="https://img.shields.io/badge/Release%20Date-August%202026-blue">
   <img src="https://img.shields.io/badge/powershell-100%25-blue?style=plastic">
