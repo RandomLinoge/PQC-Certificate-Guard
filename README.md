@@ -45,6 +45,7 @@ Set-ExecutionPolicy -Scope Process Bypass
 & .\src\PQC-Certificate-Guard.ps1
 ```
 <img src="https://github.com/RandomLinoge/PQC-Certificate-Guard/blob/main/src/CertificateGuard-Main.jpg">
+
 ## Safe first test
 
 1. Run **Setup doctor** and confirm OpenSSL 3.5+ and algorithm support.
